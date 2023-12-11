@@ -34,7 +34,7 @@ jobs:
         uses: 'google-github-actions/auth@v1'
         with:
           workload_identity_provider: 'projects/681959844359/locations/global/workloadIdentityPools/github/providers/my-repo'
-          service_account: 'github-actions-service-account@cs-1660-407814.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
+          service_account: 'virtual-keyboard-bucket-sa@cs-1660-407814.iam.gserviceaccount.com' # UPDATE THIS TO YOUR SERVICE ACCOUNT
 
       # upload files to GCS
       - id: 'upload-static-files'
