@@ -1,4 +1,12 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/p3a22N-M)
 # CS1660 Static Website Project
+
+# Submission Link
+Load Balancer IP Address (IP:Port)
+
+34.144.255.248:443
+
+(NOTE: The static website sometimes does not render properly in Firefox. If there is a rendering issue, please try opening the website in Microsoft Edge)
 
 ## Project Requirements
 - Google Cloud Platform (GCP) account
